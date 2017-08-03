@@ -4,7 +4,7 @@
 		module="bikestreaming_all-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170730171915"
+		publication="20170802225502"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

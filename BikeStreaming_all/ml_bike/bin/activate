@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/Yomancool/Documents/Git/BikeStreaming_all/ml_bike"
+VIRTUAL_ENV="/Users/Yomancool/Documents/Git/BDAD_Project/BikeStreaming_all/ml_bike"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

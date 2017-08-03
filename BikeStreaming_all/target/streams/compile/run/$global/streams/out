@@ -1,7 +1,7 @@
 [0m[[0minfo[0m] [0mRunning bikeJob.BikeJob [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/Users/Yomancool/Documents/Git/BikeStreaming_all/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/Yomancool/Documents/Git/BDAD_Project/BikeStreaming_all/target/scala-2.10/classes[0m
 [0m[[0mdebug[0m] [0m	/Users/Yomancool/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/Yomancool/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.0.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/Yomancool/.ivy2/cache/org.apache.avro/avro-mapred/jars/avro-mapred-1.7.7-hadoop2.jar[0m

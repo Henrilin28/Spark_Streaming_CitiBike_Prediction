@@ -10,7 +10,7 @@ def main():
     predict_info = pd.concat([predict, status, info], axis=0, join='inner')
     #predict_value, real_time_value, capacity, lat, lng
     predict_info.to_csv("result/predict_info.csv", index=False)
-    predict_info.to_csv("../BDAD_Project/map/predict_info.csv", index=False)
+    predict_info.to_csv("../map/predict_info.csv", index=False)
     print("info complete")
 if __name__ == '__main__':
     main()

@@ -47,7 +47,7 @@ class citiBikeReceiver(url:String)
           case _ => ""
         }
         store(src)
-        Thread.sleep(5000)
+        Thread.sleep(20000)
         }
         //stream.close()
     } catch {
